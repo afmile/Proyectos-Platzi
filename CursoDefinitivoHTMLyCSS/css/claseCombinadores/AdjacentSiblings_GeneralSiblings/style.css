@@ -1,0 +1,9 @@
+/*Adjacent Siblings es ejemplo
+h2 + p {
+    color:red;
+}
+*/
+/*General Sibling seria: */
+h2 ~ p {
+    color: red;
+}

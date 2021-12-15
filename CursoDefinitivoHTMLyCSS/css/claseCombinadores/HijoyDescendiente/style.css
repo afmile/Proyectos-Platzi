@@ -1,0 +1,14 @@
+/* Que la etiqueta parrafo sea hija directa de la etiqueta
+div*/
+div > p {
+    color: red;
+}
+
+/* .nav a 
+Es un descendiente porque estamos diciendo que toda 
+etiqueta a que este dentro de una clase .nav se le aplica
+el estilo
+
+lo mismo que un
+
+nav p */
